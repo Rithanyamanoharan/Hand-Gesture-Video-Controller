@@ -4,7 +4,8 @@
      Arduino UNO
      Ultrasonic sensor
      Some wires
-     Bread board
+     Bread board.
  Software used:
      Arduino IDE
-     python
+     python.
+ I have added the component photos which i used for this project and model photo.and for linking the arduino code and python i have bean using pyserial library.
